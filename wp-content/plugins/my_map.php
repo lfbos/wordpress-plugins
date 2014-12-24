@@ -22,3 +22,4 @@ function smp_map_it($atts, $content=NULL) {
 }
 
 add_shortcode('map-it','smp_map_it');
+//remove_all_shortcodes()

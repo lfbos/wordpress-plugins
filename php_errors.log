@@ -2,3 +2,6 @@
 [24-Dec-2014 19:56:34 UTC] Has desactivado mi plugin
 [24-Dec-2014 21:09:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/wp-content/plugins/my_map.php on line 14
 [24-Dec-2014 21:11:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/wp-content/plugins/my_map.php on line 25
+[24-Dec-2014 21:39:38 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ubuntu/workspace/wp-includes/widgets.php on line 1075
+[24-Dec-2014 21:40:11 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ubuntu/workspace/wp-includes/widgets.php on line 1075
+[24-Dec-2014 21:41:17 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/ubuntu/workspace/wp-includes/widgets.php on line 1075
