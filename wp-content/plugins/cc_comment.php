@@ -17,7 +17,7 @@ function cc_comment() {
     $subject = "Nuevo comentario en el blog" . $_REQUEST['subject'];
     $mensaje = "Mensaje de: ".$_REQUEST['name']." por email " . $_REQUEST['email']."\n".$_REQUEST['comments'];
     
-    mail($to,$subject,$mensaje);
+    wp_mail($to,$subject,$mensaje);
 }
 
 add_action('comment_post','cc_comment');
